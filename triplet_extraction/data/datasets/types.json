@@ -1,0 +1,92 @@
+{
+    "entities": {
+        "Problem": {
+            "short": "Problem",
+            "verbose": "Problem"
+        },
+        "Method": {
+            "short": "Method",
+            "verbose": "Method"
+        },
+        "Tool": {
+            "short": "Tool",
+            "verbose": "Tool"
+        },
+        "Perspective": {
+            "short": "Perspective",
+            "verbose": "Perspective"
+        },
+        "Condition": {
+            "short": "Condition",
+            "verbose": "Condition"
+        },
+        "Field": {
+            "short": "Field",
+            "verbose": "Field"
+        },
+        "Dataset": {
+            "short": "Dataset",
+            "verbose": "Dataset"
+        },
+        "Feature": {
+            "short": "Feature",
+            "verbose": "Feature"
+        },
+        "Application": {
+            "short": "Application",
+            "verbose": "Application"
+        }
+    },
+    "relations": {
+        "parallel to": {
+            "short": "parallel to",
+            "verbose": "parallel to",
+            "symmetric": false
+        },
+        "belong to": {
+            "short": "belong to",
+            "verbose": "belong to",
+            "symmetric": false
+        },
+        "restrict to": {
+            "short": "restrict to",
+            "verbose": "restrict to",
+            "symmetric": false
+        },
+        "lie in": {
+            "short": "lie in",
+            "verbose": "lie in",
+            "symmetric": false
+        },
+        "serve for": {
+            "short": "serve for",
+            "verbose": "serve for",
+            "symmetric": false
+        },
+        "solved by": {
+            "short": "solved by",
+            "verbose": "solved by",
+            "symmetric": false
+        },
+        "feature of": {
+            "short": "feature of",
+            "verbose": "feature of",
+            "symmetric": false
+        },
+        "used in": {
+            "short": "used in",
+            "verbose": "used in",
+            "symmetric": false
+        },
+        "applied to": {
+            "short": "applied to",
+            "verbose": "applied to",
+            "symmetric": false
+        },
+        "subclass of": {
+            "short": "subclass of",
+            "verbose": "subclass of",
+            "symmetric": false
+        }
+    }
+}
